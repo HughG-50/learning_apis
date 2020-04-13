@@ -4,3 +4,4 @@
 
 1. Chuck Norris Random Jokes
 2. Pokemon API
+3. Coinmarketcap Sandbox API
